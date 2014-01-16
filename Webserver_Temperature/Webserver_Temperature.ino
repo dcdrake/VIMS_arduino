@@ -13,6 +13,9 @@
  modified 9 Apr 2012
  by Tom Igoe
  
+ Modifed by Dylan Drake
+ August 2012
+ 
  */
 //CONDUCTIVITY VARIABLES
 #define SAMPLES 4096
